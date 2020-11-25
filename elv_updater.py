@@ -1,9 +1,7 @@
 import requests
-import re
 import os
 import shutil
 from zipfile import ZipFile
-from bs4 import BeautifulSoup
 
 
 # replace with actual WoW directory
